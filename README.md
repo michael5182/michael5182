@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hi I am Michael
 
-- 🔭 I’m currently working in `Chunghwa Telecom` as `Software Engineer`
+- 🔭 I’m currently working as `Software Engineer`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
